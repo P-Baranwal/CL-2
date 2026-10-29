@@ -1,0 +1,11 @@
+Label,Actor,First example (date),URL,Note
+situation in Ukraine,India,2022-02-24,https://www.mea.gov.in/speeches-statements?dtl/34899,Default Indian label in the first war-week briefing; title of the briefing itself.
+conflict,India,2022-02-24,https://www.mea.gov.in/speeches-statements?dtl/34899,Generic Indian label; used where journalists say 'war'/'invasion'.
+situation of war,India,2022-03-03,https://www.mea.gov.in/speeches-statements?dtl/34929,Rare Indian use of 'war'; occurs in an MEA approximate translation of a Hindi answer.
+war zone,India,2022-03-03,https://www.mea.gov.in/speeches-statements?dtl/34929,Used alongside 'conflict zone' in the same briefing.
+active conflict zones,India,2022-03-15,https://www.mea.gov.in/speeches-statements?dtl/34952,Parliamentary statement.
+Ukraine - Russia conflict,India,2022-04-22,https://www.mea.gov.in/speeches-statements?dtl/35223,"Word-order variant: 'Ukraine - Russia', not 'Russia - Ukraine'."
+war between Russia and Ukraine,India,2022-04-22,https://www.mea.gov.in/speeches-statements?dtl/35223,Approximate MEA translation of a Hindi answer; translator's choice UNCERTAIN.
+era is not of war / era of war,India,2022-09-16,https://www.mea.gov.in/speeches-statements?dtl/35722,PM Modi's Samarkand formula; spreads into UNSC/UNGA statements and the G20 Bali declaration.
+crisis in Ukraine,India,2022-09-16,https://www.mea.gov.in/speeches-statements?dtl/35719,PM's SCO remarks; earlier variant 'humanitarian crisis in Ukraine' on 2022-03-19.
+developments in Ukraine,India,2022-11-15,https://www.mea.gov.in/speeches-statements?dtl/35884,PM's G20 Bali address; English translation of Hindi.
